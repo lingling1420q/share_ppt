@@ -1,5 +1,19 @@
 # 技术分享PPT
 
+[优雅的编程者](drunbility.pdf)
+
+[分布式行情推送系统(golang)](push_cluster.pdf)
+
+[Redis经验之谈](redis_qa.pdf)
+
+[http2和quic的那些事儿](http2quic.pdf)
+
+[kubernetes的那些事儿](k8s.pdf)
+
+[istio的那些事儿](istio.pdf)
+
+[srevice mesh的那些事儿](service_mesh.pdf)
+
 [Redis Cluster那些事儿](redis_cluster.pdf)
 
 [golang高级讲义](golang_advance.pdf)
